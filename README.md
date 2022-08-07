@@ -2,9 +2,9 @@
 
 **[Streamlit](https://streamlit.io)** is an open source app framework in Python language. It helps us create web apps for data science and machine learning in a short time
 
-Here is my 
-<a href="https://andrew2077-streamlit-ml-mlwebapp-mmhe32.streamlitapp.com" target="_blank">Web App.V1.0</a> 
-give it a visit and explore how Machine learning classification algorithms works
+Here is my <a href="https://andrew2077-streamlit-ml-mlwebapp-mmhe32.streamlitapp.com" target="_blank">Web App.V1.0</a>
+-- *open in a new tap* --
+give it a visit and explore how Machine learning classification algorithms works 
 
 ---
 
