@@ -3,8 +3,11 @@
 **[Streamlit](https://streamlit.io)** is an open source app framework in Python language. It helps us create web apps for data science and machine learning in a short time
 
 Here is my <a href="https://andrew2077-streamlit-ml-mlwebapp-mmhe32.streamlitapp.com" target="_blank">Web App.V1.0</a>
--- *open in a new tap* --
+-- *open in a new tap [**Preview**](#preview)* --
 give it a visit and explore how Machine learning classification algorithms works 
+
+- Shared on & Hosted by Streamlit Cloud
+
 
 ---
 
@@ -13,8 +16,9 @@ give it a visit and explore how Machine learning classification algorithms works
 - [**Streamlit ML Classification**](#streamlit-ml-classification)
 - [**Table Of Contents**](#table-of-contents)
 - [**The Idea of the App**](#the-idea-of-the-app)
-- [**Features**](#features)
 - [**Preview**](#preview)
+- [**Deploying without Streamlit Cloud**](#deploying-without-streamlit-cloud)
+- [**Features**](#features)
 - [**Future improvements**](#future-improvements)
 
 ---
@@ -23,6 +27,21 @@ give it a visit and explore how Machine learning classification algorithms works
 
 Demonstrate the effectiveness of a machine learning model to classify data, while visualizing the results.
 
+---
+## **Preview**
+
+![preview](preview.gif)
+
+---
+
+## **Deploying without Streamlit Cloud**
+
+- open **[mlwebapp](mlwebapp.py)** and run in terminal
+- you will have to run it through Streamlit 
+- write the following command in terminal after running 
+    ```
+    streamlit run mlwebapp.py
+    ``` 
 ---
 
 ## **Features**
@@ -33,12 +52,11 @@ Demonstrate the effectiveness of a machine learning model to classify data, whil
 
 ---
 
-## **Preview**
 
----
 
 ## **Future improvements**
 
+- Adding more Parameters for Tuning the model _[under development]_
 - Adding decision plot _[under development]_
 - Adding a heatmap _[under development]_
 - Adding an option for 3D plot _[under development]_
